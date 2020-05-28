@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\Uniq\МоскаленкоЛабы\6lab(Plane)\bin\Debug\netcoreapp3.0\6lab(Plane).exe
+C:\Users\User\Desktop\Uniq\МоскаленкоЛабы\6lab(Plane)\bin\Debug\netcoreapp3.0\6lab(Plane).deps.json
+C:\Users\User\Desktop\Uniq\МоскаленкоЛабы\6lab(Plane)\bin\Debug\netcoreapp3.0\6lab(Plane).runtimeconfig.json
+C:\Users\User\Desktop\Uniq\МоскаленкоЛабы\6lab(Plane)\bin\Debug\netcoreapp3.0\6lab(Plane).runtimeconfig.dev.json
+C:\Users\User\Desktop\Uniq\МоскаленкоЛабы\6lab(Plane)\bin\Debug\netcoreapp3.0\6lab(Plane).dll
+C:\Users\User\Desktop\Uniq\МоскаленкоЛабы\6lab(Plane)\bin\Debug\netcoreapp3.0\6lab(Plane).pdb
+C:\Users\User\Desktop\Uniq\МоскаленкоЛабы\6lab(Plane)\obj\Debug\netcoreapp3.0\6lab(Plane).csprojAssemblyReference.cache
+C:\Users\User\Desktop\Uniq\МоскаленкоЛабы\6lab(Plane)\obj\Debug\netcoreapp3.0\6lab(Plane).AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Uniq\МоскаленкоЛабы\6lab(Plane)\obj\Debug\netcoreapp3.0\6lab(Plane).AssemblyInfo.cs
+C:\Users\User\Desktop\Uniq\МоскаленкоЛабы\6lab(Plane)\obj\Debug\netcoreapp3.0\6lab(Plane).dll
+C:\Users\User\Desktop\Uniq\МоскаленкоЛабы\6lab(Plane)\obj\Debug\netcoreapp3.0\6lab(Plane).pdb
